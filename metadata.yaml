@@ -1,0 +1,37 @@
+_repo: The-Postmaster_37482
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Heath, Howard
+    birthdate: 1879
+    gutenberg_agent_id: '38334'
+    url: http://www.gutenberg.org/2009/agents/38334
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lincoln, Joseph Crosby
+    alias: Lincoln, Joseph C.
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '810'
+    url: http://www.gutenberg.org/2009/agents/810
+description: ''
+gutenberg_issued: '2011-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Business -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Middle-aged men -- Fiction'
+title: The Postmaster
+url: http://www.gutenberg.org/ebooks/37482
