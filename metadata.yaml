@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '810'
     url: http://www.gutenberg.org/2009/agents/810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37482#The-Postmaster
 gutenberg_issued: '2011-09-19'
 gutenberg_type: Text
 identifiers:
